@@ -1,0 +1,5 @@
+Petrov 123456 8 8 8 
+Sidorov 123654 9 7 8
+Orlov 485632 8 8 7
+Shilov 456123 9 9 9
+Moisa 789456 10 9 9

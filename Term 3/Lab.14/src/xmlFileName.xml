@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<students>
+    <student surname='Potapot' studentID='123698' mark1='9' mark2='9' mark3='9'/>
+    <student surname='Aplet' studentID='789523' mark1='8' mark2='9' mark3='7'/>
+    <student surname='Vodov' studentID='741028' mark1='9' mark2='10' mark3='9'/>
+    <student surname='Cheesov' studentID='985321' mark1='8' mark2='8' mark3='9'/>
+</students>
